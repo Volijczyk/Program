@@ -1,0 +1,14 @@
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\bin\Debug\netcoreapp3.1\squarefunction.exe
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\bin\Debug\netcoreapp3.1\squarefunction.deps.json
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\bin\Debug\netcoreapp3.1\squarefunction.runtimeconfig.json
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\bin\Debug\netcoreapp3.1\squarefunction.runtimeconfig.dev.json
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\bin\Debug\netcoreapp3.1\squarefunction.dll
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\bin\Debug\netcoreapp3.1\squarefunction.pdb
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\obj\Debug\netcoreapp3.1\squarefunction.csproj.AssemblyReference.cache
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\obj\Debug\netcoreapp3.1\squarefunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\obj\Debug\netcoreapp3.1\squarefunction.AssemblyInfoInputs.cache
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\obj\Debug\netcoreapp3.1\squarefunction.AssemblyInfo.cs
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\obj\Debug\netcoreapp3.1\squarefunction.csproj.CoreCompileInputs.cache
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\obj\Debug\netcoreapp3.1\squarefunction.dll
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\obj\Debug\netcoreapp3.1\squarefunction.pdb
+C:\Users\DOMCI\source\repos\squarefunction\squarefunction\obj\Debug\netcoreapp3.1\squarefunction.genruntimeconfig.cache
